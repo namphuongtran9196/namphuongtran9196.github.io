@@ -1,0 +1,4 @@
+baseURL = 'http://blog.namphuongtran9196.io/'
+languageCode = 'en-us'
+title = 'Tran Phuong Nam'
+theme = 'PaperMod'
