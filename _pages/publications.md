@@ -7,12 +7,6 @@ nav: true
 nav_order: 1
 ---
 <p>
-(*) denotes equal contribution
-</p>
-<p>
-(†) denotes correspondance
-</p>
-<p>
 <span style="display: inline-block; width: 15px; height: 15px; background-color: #600;"></span> denotes journal
 </p>
 <p>
