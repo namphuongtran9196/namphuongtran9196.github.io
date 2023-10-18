@@ -2,13 +2,9 @@
 layout: post
 date: 2023-08-26 15:59:00-0400
 title: 03 papers are accepted in The 14th International Conference on ICT Convergence, Jeju, Korea, Oct 11 -13, 2023.  
-inline: true
+inline: false
 related_posts: false
 ---
-
-03 papers are accepted in The 14th International Conference on ICT Convergence, Jeju, Korea, Oct 11 -13, 2023.  
-
-***
 
 - Duong Thanh Tran, Hieu-Nguyen Nguyen-Doan, Trung Thanh Pham, Phuong-Nam Tran, Thuy-Duong Thi Vu, Duc Ngoc Minh Dang, <a href="#">“Vitexco: Exemplar-based Video Colorization using Vision Transformer”</a>, [The 14th International Conference on ICT Convergence, Jeju, Korea](https://ictc.org/), Oct 11 -13, 2023  
 
