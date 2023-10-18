@@ -1,7 +1,33 @@
-"Dang Ngoc Minh Duc":
-  - firstname: ["Duc"]
-    url: https://dnmduc.github.io/
+"Dang":
+  - firstname: ["Duc Ngoc Minh"]
+    url: https://scholar.google.com/citations?user=2UKP440AAAAJ&hl=en
 
-"Pham Nhat Truong":
+"Pham":
   - firstname: ["Nhat Truong"]
     url: https://nhattruongpham.github.io/
+
+"Vu":
+  - firstname: ["Thuy-Duong Thi"]
+
+"Tran":
+  - firstname: ["Anh-Khoa"]
+    url: https://scholar.google.com/citations?user=8_-FWD4AAAAJ
+
+"Dang-Ngoc":
+  - firstname: ["Hanh"]
+    url: https://scholar.google.com/citations?user=RuwRj8EAAAAJ&hl=en
+
+"Nguyen":
+  - firstname: ["Tuan Cuong"]
+
+"Hoang":
+  - firstname: ["Duc-Hieu"]
+
+"Tran":
+  - firstname: ["Duong Thanh"]
+
+"Nguyen":
+  - firstname: ["Doan Hieu Nguyen"]
+
+"Pham":
+  - firstname: ["Trung Thanh"]
