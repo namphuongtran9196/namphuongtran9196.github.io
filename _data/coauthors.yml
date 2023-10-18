@@ -6,9 +6,6 @@
   - firstname: ["Nhat Truong"]
     url: https://nhattruongpham.github.io/
 
-"Vu":
-  - firstname: ["Thuy-Duong Thi"]
-
 "Tran":
   - firstname: ["Anh-Khoa"]
     url: https://scholar.google.com/citations?user=8_-FWD4AAAAJ
@@ -17,6 +14,9 @@
   - firstname: ["Hanh"]
     url: https://scholar.google.com/citations?user=RuwRj8EAAAAJ&hl=en
 
+"Vu":
+  - firstname: ["Thuy-Duong Thi"]
+  
 "Nguyen":
   - firstname: ["Tuan Cuong"]
 
