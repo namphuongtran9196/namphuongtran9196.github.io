@@ -1,6 +1,9 @@
 "ICTC":
   url: https://ictc.org/
-  color: "#00369f"
-
+  color: "#215d42"
+"ICIIT":
+  url: http://iciit.org/
+  color: "#215d42"
 "EAI INISCOM":
   url: https://iniscom.eai-conferences.org/
+  color: "#215d42"

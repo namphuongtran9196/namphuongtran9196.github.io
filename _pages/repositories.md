@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: Repositories
 description: "A list of repositories I have created or contributed to."
 nav: true
 nav_order: 3
