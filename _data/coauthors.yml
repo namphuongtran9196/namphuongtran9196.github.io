@@ -1,22 +1,22 @@
 "Tran":
-  - firstname: ["Phuong-Nam","P.N.","Phuong Nam","P. Nam","P. N.","Phuong N. "]
-    url: https://scholar.google.com/citations?user=2UKP440AAAAJ&hl=en
+  - firstname: ["Phuong-Nam"]
+    url: https://namphuongtran9196.github.io/
 
 "Dang":
-  - firstname: ["Duc Ngoc Minh","D.N.M.","Ngoc Minh Duc","D.N. Minh","D.N. Minh","Duc N. M. "]
+  - firstname: ["Duc Ngoc Minh"]
     url: https://scholar.google.com/citations?user=2UKP440AAAAJ&hl=en
 
+"Dang-Ngoc":
+  - firstname: ["Hanh"]
+    url: https://scholar.google.com/citations?user=RuwRj8EAAAAJ&hl=en
+
 "Pham":
-  - firstname: ["Nhat Truong","N.T."]
+  - firstname: ["Nhat Truong"]
     url: https://nhattruongpham.github.io/
 
 "Tran":
-  - firstname: ["Anh Khoa","A.K.","Khoa Anh"]
+  - firstname: ["Anh-Khoa"]
     url: https://scholar.google.com/citations?user=8_-FWD4AAAAJ&hl=en
-
-"Dang":
-  - firstname: ["Hanh Ngoc","Ngoc-Hanh","H. N.","H N "]
-    url: https://scholar.google.com/citations?user=RuwRj8EAAAAJ&hl=en
     
 "Vu":
   - firstname: ["Thuy-Duong Thi"]
