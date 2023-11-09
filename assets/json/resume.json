@@ -42,7 +42,7 @@
     {
       "name": "Gradients Technologies, Ho Chi Minh City, Vietnam",
       "position": "AI Researcher",
-      "url": "http://www.kng.vn/",
+      "url": "https://www.linkedin.com/company/pythera-ai/",
       "startDate": "2021-12-01",
       "endDate": "2023-06-01",
       "summary": "Researching and developing machine learning and deep learning algorithms related to computer vision and natural language processing.",
@@ -56,7 +56,7 @@
   "education": [
     {
       "institution": "FPT University, Ho Chi Minh City, Vietnam",
-      "url": "https://www.uzh.ch/",
+      "url": "https://uni.fpt.edu.vn/en-US/Default.aspx",
       "area": "Artificial Intelligence",
       "studyType": "Bachelor",
       "startDate": "2021-09-01",
@@ -73,6 +73,7 @@
   "awards": [
     {
       "title": "Best Paper Award",
+      "url": "https://ictc.org/",
       "date": "2023-10-13",
       "awarder": "International Conference on ICT Convergence",
       "summary": " RBBA: ResNet-BERT-Bahdanau Attention for Image Caption Generator Received Best Paper Award at the 14th International Conference on ICT Convergence - ICTC 2023"
