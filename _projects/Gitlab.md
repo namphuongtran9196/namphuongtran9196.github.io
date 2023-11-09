@@ -5,6 +5,5 @@ description: A local gitlab server.
 img: assets/img/GitLab_logo.png
 importance: 1
 category: work
+redirect: http://namphuongtran9196.dtftech.net:41297
 ---
-
-<a href="http://namphuongtran9196.dtftech.net:41297">Gitlab Server</a>
