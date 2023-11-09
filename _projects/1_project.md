@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Gitlab
+description: A local gitlab server.
+img: assets/img/GitLab_logo.png
 importance: 1
 category: work
 ---
 
-Test
+<a href="http://namphuongtran9196.dtftech.net:41297">Gitlab Server</a>
