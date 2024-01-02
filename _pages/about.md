@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>+84 946 653 380</p>
-    <p>Postgraduate Researcher</p>
+    <p>AI Researcher</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
