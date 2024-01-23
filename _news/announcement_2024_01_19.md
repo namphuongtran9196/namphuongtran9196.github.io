@@ -8,4 +8,4 @@ related_posts: false
 
 - Quan Bao Le, Kiet Tuan Trinh , Nguyen Dinh Hung Son , Phuong-Nam Tran, Cuong Tuan Nguyen, and Duc Ngoc Minh Dang, “MERSA: Multimodal Emotion Recognition with Self-Align Embedding”, <a href="https://iniscom.eai-conferences.org/2024/"> The ICOIN 2024 - The 38th International Conference on Information Networking</a>, January 17-19, 2024
 
-![conference_pic](./announcement_2024_01_19.jpg)
+![conference_pic](announcement/announcement_2024_01_19.jpg)
