@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-01-19 16:04:00-0400
-title: 01 papers is presented at The ICOIN 2024 - The 38th International Conference on Information Networking
+title: 🗞️ 01 papers is presented at The ICOIN 2024 - The 38th International Conference on Information Networking
 inline: false
 related_posts: false
 ---
