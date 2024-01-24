@@ -16,9 +16,9 @@ def main(args):
     filename, ext = os.path.splitext(args.img_path)
     img = cv2.imread(args.img_path)
     img = cv2.resize(img,(640,640) )
-    title = np.ones((40,640,3)) * color
+    title = np.ones((80,640,3)) * color
     title = title.astype(np.uint8)
-    cv2.putText(title, args.abbreviation, (15,35),cv2.FONT_HERSHEY_SIMPLEX  ,1.4, (255,255,255),3)
+    cv2.putText(title, args.abbreviation, (15,75),cv2.FONT_HERSHEY_SIMPLEX  ,3, (255,255,255),3)
     img = np.concatenate([title, img], axis = 0)
     cv2.imwrite(filename+"_icon"+ext, img)
 
