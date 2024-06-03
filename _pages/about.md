@@ -7,7 +7,7 @@ subtitle: <a href='https://uni.fpt.edu.vn/en-US/home'>FPTU University, Ho Chi Mi
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>+84 946 653 380</p>
     <p>AI Researcher</p>
