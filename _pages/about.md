@@ -22,4 +22,4 @@ social: true  # includes social icons at the bottom of the page
 
 From 2021 to 2023, I was a Junior AI Engineer at <a href="http://www.kng.vn/">K&G company</a>, in Vietnam. During this time, I also worked as an AI researcher at startup <a href="https://www.linkedin.com/company/pythera-ai/about/">Pythera AI</a> which took account into many projects related to Natural Language Processing and Computer Vision.Currently, I work as an AI researcher under the guidance of Dr. <a href="https://dnmduc.github.io/">Duc Ngoc Minh Dang</a>. at FPT University, Ho Chi Minh City, Vietnam.
 
-**Research Interests:** Artificial Intelligence, Deep Learning, Machine Learning, Signal Processing, Multi-Modal, Reinforcement learning, and their applications in the fields of Biometrics, Audio & Speech Processing, Self-Driving Car, Intelligent automation, and Robotics.
+**Research Interests:** Artificial Intelligence, Deep Learning, Machine Learning, Signal Processing, Multi-Modal and their applications in the fields of Biometrics and Audio & Speech Processing. My main research field is Networking for AI which related to Dem-AI, Federated learning, Split Learning, Active Learning.
